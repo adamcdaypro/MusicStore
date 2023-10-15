@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music Store</string>
+    <string name="title_activity_main">Music Store</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="album_artwork">Album Artwork</string>
+    <string name="explicit">Explicit</string>
+    <string name="stop_song_preview">Stop song preview</string>
+    <string name="start_song_preview">Start song preview</string>
+</resources>
